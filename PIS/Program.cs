@@ -9,10 +9,14 @@ namespace PIS
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("project");
         }
         public static void test
         { 
+
+            Console.WriteLine("Ti si idiot!!!!");
+
         }
     }
 }
