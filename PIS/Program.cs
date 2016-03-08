@@ -9,6 +9,7 @@ namespace PIS
     {
         static void Main(string[] args)
         {
+            console.WriteLine("Tis si idiot!!!!");
         }
     }
 }
